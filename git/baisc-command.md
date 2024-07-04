@@ -45,3 +45,28 @@ git push origin main
 git push {remote_name} {branch_name}
 ```
 
+## pull
+- 원격저장소에서 브랜치를 다운로드 하는 명령어
+
+```bash
+git pull origin main
+git pull {remote_name} {branch_name}
+```
+## branch
+
+- 공용 원격저장소에서 기능단위 개별 작업을 위해 사용
+
+1. 생성
+```bash
+git branch -c {branch_name}
+```
+
+2. 진입
+```bash
+git switch {branch_name}
+```
+
+3. 삭제
+```bash
+git branch -d {branch_name}
+```
