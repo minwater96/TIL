@@ -6,5 +6,5 @@
 - [MarkDawn](MarkDown/markdown.md)
 - [linux](linux/command.md)
 - [git](git/baisc-command.md)
-- [python]()
-- [pandas]()
+- [python](python/basic-command.md)
+- [pandas](pandas/basic-pandas.md)
