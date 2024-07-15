@@ -1,6 +1,6 @@
 # ML(machine learning)
 
-## 01. Basic ML.
+## 01. Basic ML
 
  - [01-3, basic_ML](01-3.ipynb)
 
