@@ -8,3 +8,4 @@
 - [git](git/baisc-command.md)
 - [python](python/basic-command.md)
 - [pandas](pandas/basic-pandas.md)
+- [ML](ML/basic-ml.md)
