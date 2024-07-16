@@ -7,5 +7,6 @@
 - [linux](linux/command.md)
 - [git](git/baisc-command.md)
 - [python](python/basic-command.md)
-- [pandas](pandas/basic-pandas.md)
-- [ML](ML/basic-ml.md)
+- [pandas]
+- [ML]
+    - [scikit-leadrn](ML/Scikit-learn.md)
