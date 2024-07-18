@@ -10,4 +10,4 @@
 - [pandas]
 - [ML]
     - [scikit-leadrn](ML/Scikit-learn.md)
-    - [deeplearning](ML/Deeplreaning.md)
+    - [deeplearning](ML/DeeLearning.md)
